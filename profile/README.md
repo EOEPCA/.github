@@ -13,7 +13,7 @@ System...
 Building Blocks...
 * [**Application Deployment & Execution Service (ADES)**](https://github.com/EOEPCA/proc-ades) - [[repository]](https://github.com/EOEPCA/proc-ades) - [[docs]](https://github.com/EOEPCA/proc-ades/wiki)
 * [**Application Hub** - https://github.com/EOEPCA/application-hub-chart](https://github.com/EOEPCA/application-hub-chart)
-* [**Resource Catalogue**](https://github.com/geopython/pycsw) - [[repository]](https://github.com/geopython/pycsw) - [[docs]](resource-catalogue-docs.md)
+* [**Resource Catalogue**](https://github.com/geopython/pycsw) - [[repository]](https://github.com/geopython/pycsw) - [[docs]](https://github.com/EOEPCA/.github/blob/main/profile/resource-catalogue-docs.md)
 * [**Data Access** - https://github.com/EOEPCA/rm-data-access/](https://github.com/EOEPCA/rm-data-access/)
 * [**Registration API** - https://github.com/EOEPCA/rm-registration-api](https://github.com/EOEPCA/rm-registration-api)
 * [**Workspace API** - https://github.com/EOEPCA/rm-workspace-api/](https://github.com/EOEPCA/rm-workspace-api/)
