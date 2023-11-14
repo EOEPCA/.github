@@ -11,7 +11,7 @@ System...
 * [**Helm Charts** - https://eoepca.github.io/helm-charts](https://eoepca.github.io/helm-charts) [\[sources\]](https://github.com/EOEPCA/helm-charts)
 
 Building Blocks...
-* [**ADES** - https://github.com/EOEPCA/proc-ades](https://github.com/EOEPCA/proc-ades)
+* [**Application Deployment & Execution Service (ADES)**](https://github.com/EOEPCA/proc-ades) - [[repository]](https://github.com/EOEPCA/proc-ades) - [[docs]](https://github.com/EOEPCA/proc-ades/wiki)
 * [**Application Hub** - https://github.com/EOEPCA/application-hub-chart](https://github.com/EOEPCA/application-hub-chart)
 * [**Resource Catalogue** - https://github.com/geopython/pycsw](https://github.com/geopython/pycsw)
 * [**Data Access** - https://github.com/EOEPCA/rm-data-access/](https://github.com/EOEPCA/rm-data-access/)
