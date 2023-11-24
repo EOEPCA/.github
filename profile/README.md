@@ -14,7 +14,7 @@ Building Blocks...
 * [**Application Deployment & Execution Service (ADES)**](https://github.com/EOEPCA/proc-ades) - [[repository]](https://github.com/EOEPCA/proc-ades) - [[docs]](https://github.com/EOEPCA/proc-ades/wiki)
 * [**Application Hub** - https://github.com/EOEPCA/application-hub-chart](https://github.com/EOEPCA/application-hub-chart) - [[docs]](https://eoepca.github.io/application-hub-context/)
 * [**Resource Catalogue** - https://github.com/EOEPCA/rm-resource-catalogue](https://github.com/EOEPCA/rm-resource-catalogue) - [[repository]](https://github.com/geopython/pycsw) - [[docs]](https://github.com/EOEPCA/rm-resource-catalogue)
-* [**Data Access** - https://github.com/EOEPCA/rm-data-access/](https://github.com/EOEPCA/rm-data-access/)
+* [**Data Access** - https://github.com/EOEPCA/rm-data-access/](https://github.com/EOEPCA/rm-data-access/) - [[repository]](https://gitlab.eox.at/vs/vs) - [[docs]](https://github.com/EOEPCA/rm-data-access/)
 * [**Registration API** - https://github.com/EOEPCA/rm-registration-api](https://github.com/EOEPCA/rm-registration-api)
 * [**Workspace API** - https://github.com/EOEPCA/rm-workspace-api/](https://github.com/EOEPCA/rm-workspace-api/)
 * [**Login Service** - https://github.com/EOEPCA/um-login-service](https://github.com/EOEPCA/um-login-service)
