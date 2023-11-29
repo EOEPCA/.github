@@ -12,7 +12,7 @@ System...
 
 Building Blocks...
 * [**Application Deployment & Execution Service (ADES)**](https://github.com/EOEPCA/proc-ades) - [[repository]](https://github.com/EOEPCA/proc-ades) - [[docs]](https://github.com/EOEPCA/proc-ades/wiki)
-* [**Application Hub** - https://github.com/EOEPCA/application-hub-chart](https://github.com/EOEPCA/application-hub-chart) - [[docs]](https://eoepca.github.io/application-hub-context/):
+* [**Application Hub** - https://github.com/EOEPCA/application-hub-chart](https://github.com/EOEPCA/application-hub-chart) - [[repository]](https://github.com/EOEPCA/application-hub-context) [[docs]](https://eoepca.github.io/application-hub-context/):
   * **ApplicationHub Applications:**
     * **Processor Development Environment** [[repository]](https://github.com/EOEPCA/pde-code-server)
     * **JupyterLab** [[repository]](https://github.com/EOEPCA/iat-jupyterlab)
