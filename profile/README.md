@@ -13,12 +13,13 @@ System...
 Building Blocks...
 * [**Application Deployment & Execution Service (ADES)**](https://github.com/EOEPCA/proc-ades) - [[repository]](https://github.com/EOEPCA/proc-ades) - [[docs]](https://github.com/EOEPCA/proc-ades/wiki)
 * [**Application Hub** - https://github.com/EOEPCA/application-hub-chart](https://github.com/EOEPCA/application-hub-chart) - [[docs]](https://eoepca.github.io/application-hub-context/):
-  * **Processor Development Environment** [[repository]](https://github.com/EOEPCA/pde-code-server)
-  * **JupyterLab** [[repository]](https://github.com/EOEPCA/iat-jupyterlab)
-  * **Remote Desktop** [[repository]](https://github.com/EOEPCA/iga-remote-desktop)
-  * **Remote Desktop with QGIS** [[repository]](https://github.com/EOEPCA/iga-remote-desktop-qgis)
-  * **Remote Desktop with SNAP** [[repository]](https://github.com/EOEPCA/iga-remote-desktop-snap)
-  * **Dashboard with Streamlit** [[repository]](https://github.com/EOEPCA/iga-streamlit-demo)
+  * ApplicationHub Applications:
+   * **Processor Development Environment** [[repository]](https://github.com/EOEPCA/pde-code-server)
+   * **JupyterLab** [[repository]](https://github.com/EOEPCA/iat-jupyterlab)
+   * **Remote Desktop** [[repository]](https://github.com/EOEPCA/iga-remote-desktop)
+   * **Remote Desktop with QGIS** [[repository]](https://github.com/EOEPCA/iga-remote-desktop-qgis)
+   * **Remote Desktop with SNAP** [[repository]](https://github.com/EOEPCA/iga-remote-desktop-snap)
+   * **Dashboard with Streamlit** [[repository]](https://github.com/EOEPCA/iga-streamlit-demo)
 * [**Resource Catalogue** - https://github.com/EOEPCA/rm-resource-catalogue](https://github.com/EOEPCA/rm-resource-catalogue) - [[repository]](https://github.com/geopython/pycsw) - [[docs]](https://github.com/EOEPCA/rm-resource-catalogue)
 * [**Data Access** - https://github.com/EOEPCA/rm-data-access/](https://github.com/EOEPCA/rm-data-access/) - [[repository]](https://gitlab.eox.at/vs/vs) - [[docs]](https://github.com/EOEPCA/rm-data-access/)
 * [**Registration API** - https://github.com/EOEPCA/rm-registration-api](https://github.com/EOEPCA/rm-registration-api)
