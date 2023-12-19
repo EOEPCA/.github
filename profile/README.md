@@ -24,6 +24,7 @@ Building Blocks...
 * [**Data Access** - https://github.com/EOEPCA/rm-data-access/](https://github.com/EOEPCA/rm-data-access/) - [[repository]](https://gitlab.eox.at/vs/vs) - [[docs]](https://github.com/EOEPCA/rm-data-access/)
 * [**Registration API** - https://github.com/EOEPCA/rm-registration-api](https://github.com/EOEPCA/rm-registration-api) - [[repository]](https://github.com/EOEPCA/rm-registration-api) - [[docs]](https://github.com/EOEPCA/rm-registration-api/wiki)
 * [**Workspace API** - https://github.com/EOEPCA/rm-workspace-api/](https://github.com/EOEPCA/rm-workspace-api/) - [[repository]](https://github.com/EOEPCA/rm-workspace-api) - [[docs]](https://github.com/EOEPCA/rm-workspace-api/wiki)
+* [**Minio Bucket API**](https://github.com/EOEPCA/rm-minio-bucket-api) - [repository](https://github.com/EOEPCA/rm-minio-bucket-api) - [docs](https://github.com/EOEPCA/rm-minio-bucket-api#readme)
 * **Identity & Access Management...**
   * **Keycloak Solution (NEW)**
     * TBD
