@@ -28,7 +28,7 @@ Building Blocks...
   * **Keycloak Solution (NEW)**
     * TBD
   * **Gluu Solution (deprecated)**
-    * [**Login Service** - https://github.com/EOEPCA/um-login-service](https://github.com/EOEPCA/um-login-service) - [repository](https://github.com/EOEPCA/um-login-service) - [docs](https://github.com/EOEPCA/um-login-service/wiki) - [gluu](https://gluu.org/docs/gluu-server/4.1/)
+    * [**Login Service** - https://github.com/EOEPCA/um-login-service](https://github.com/EOEPCA/um-login-service) - [[repository]](https://github.com/EOEPCA/um-login-service) - [[docs]](https://github.com/EOEPCA/um-login-service/wiki) - [[gluu]](https://gluu.org/docs/gluu-server/4.1/)
     * [**Resource Protection** - https://system-description.docs.eoepca.org/current/iam/resource-guard/](https://system-description.docs.eoepca.org/current/iam/resource-guard/) - [[repository]](https://github.com/EOEPCA/helm-charts/tree/main/charts/resource-guard) - [[docs]](https://github.com/EOEPCA/helm-charts/tree/main/charts/resource-guard#readme)
-    * [**Policy Decision Point** - https://github.com/EOEPCA/um-pdp-engine](https://github.com/EOEPCA/um-pdp-engine) - [repository](https://github.com/EOEPCA/um-pdp-engine) - [docs](https://github.com/EOEPCA/um-pdp-engine/wiki)
-    * [**User Profile** - https://github.com/EOEPCA/um-user-profile](https://github.com/EOEPCA/um-user-profile) - [repository](https://github.com/EOEPCA/um-user-profile) - [docs](https://github.com/EOEPCA/um-user-profile/wiki)
+    * [**Policy Decision Point** - https://github.com/EOEPCA/um-pdp-engine](https://github.com/EOEPCA/um-pdp-engine) - [[repository]](https://github.com/EOEPCA/um-pdp-engine) - [[docs]](https://github.com/EOEPCA/um-pdp-engine/wiki)
+    * [**User Profile** - https://github.com/EOEPCA/um-user-profile](https://github.com/EOEPCA/um-user-profile) - [[repository]](https://github.com/EOEPCA/um-user-profile) - [[docs]](https://github.com/EOEPCA/um-user-profile/wiki)
