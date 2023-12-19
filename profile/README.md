@@ -24,7 +24,11 @@ Building Blocks...
 * [**Data Access** - https://github.com/EOEPCA/rm-data-access/](https://github.com/EOEPCA/rm-data-access/) - [[repository]](https://gitlab.eox.at/vs/vs) - [[docs]](https://github.com/EOEPCA/rm-data-access/)
 * [**Registration API** - https://github.com/EOEPCA/rm-registration-api](https://github.com/EOEPCA/rm-registration-api) - [[repository]](https://github.com/EOEPCA/rm-registration-api) - [[docs]](https://github.com/EOEPCA/rm-registration-api/wiki)
 * [**Workspace API** - https://github.com/EOEPCA/rm-workspace-api/](https://github.com/EOEPCA/rm-workspace-api/) - [[repository]](https://github.com/EOEPCA/rm-workspace-api) - [[docs]](https://github.com/EOEPCA/rm-workspace-api/wiki)
-* [**Login Service** - https://github.com/EOEPCA/um-login-service](https://github.com/EOEPCA/um-login-service)
-* [**Resource Protection** - https://system-description.docs.eoepca.org/current/iam/resource-guard/](https://system-description.docs.eoepca.org/current/iam/resource-guard/) - [[repository]](https://github.com/EOEPCA/helm-charts/tree/main/charts/resource-guard) - [[docs]](https://github.com/EOEPCA/helm-charts/tree/main/charts/resource-guard#readme)
-* [**Policy Decision Point** - https://github.com/EOEPCA/um-pdp-engine](https://github.com/EOEPCA/um-pdp-engine)
+* **Identity & Access Management...**
+  * **Keycloak Solution (NEW)**
+    * TBD
+  * **Gluu Solution (deprecated)**
+    * [**Login Service** - https://github.com/EOEPCA/um-login-service](https://github.com/EOEPCA/um-login-service)
+    * [**Resource Protection** - https://system-description.docs.eoepca.org/current/iam/resource-guard/](https://system-description.docs.eoepca.org/current/iam/resource-guard/) - [[repository]](https://github.com/EOEPCA/helm-charts/tree/main/charts/resource-guard) - [[docs]](https://github.com/EOEPCA/helm-charts/tree/main/charts/resource-guard#readme)
+    * [**Policy Decision Point** - https://github.com/EOEPCA/um-pdp-engine](https://github.com/EOEPCA/um-pdp-engine)
 * [**User Profile** - https://github.com/EOEPCA/um-user-profile](https://github.com/EOEPCA/um-user-profile)
