@@ -15,7 +15,7 @@ The goal of the EOEPCA's “Common Architecture” is therefore to define and ag
 
 System...
 * [**EOEPCA Release v1.4** - https://github.com/EOEPCA/eoepca/releases/tag/v1.4](https://github.com/EOEPCA/eoepca/releases/tag/v1.4)
-* [**Deployment Guide** - https://deployment-guide.docs.eoepca.org/v1.4/](https://deployment-guide.docs.eoepca.org/v1.4/)
+* [**Deployment Guide (latest)** - https://eoepca.readthedocs.io/projects/deploy/en/latest/](https://eoepca.readthedocs.io/projects/deploy/en/latest/)
 * [**Helm Charts** - https://eoepca.github.io/helm-charts](https://eoepca.github.io/helm-charts) [\[sources\]](https://github.com/EOEPCA/helm-charts)
 
 Building Blocks...
