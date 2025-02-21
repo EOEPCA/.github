@@ -67,11 +67,8 @@ The goal of the EOEPCA+ “Common Architecture” is therefore to define and agr
 
 ### Bugs and Feature Requests
 
-Please report any bugs encountered, and we welcome feature requests.<br>
-These are triaged via our [`eoepca-plus` umbrella repository](https://github.com/EOEPCA/eoepca-plus):
-
-* [Bug Report](https://github.com/EOEPCA/eoepca-plus/issues/new?template=eoepca-bug.yaml)
-* [Feature Request](https://github.com/EOEPCA/eoepca-plus/issues/new?template=eoepca-feature.yaml)
+Please report any [bugs](https://github.com/EOEPCA/eoepca-plus/issues/new?template=eoepca-bug.yaml) encountered, and we welcome [feature requests](https://github.com/EOEPCA/eoepca-plus/issues/new?template=eoepca-feature.yaml).<br>
+These are triaged via our [`eoepca-plus`](https://github.com/EOEPCA/eoepca-plus) umbrella repository.
 
 ---
 
