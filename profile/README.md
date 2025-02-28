@@ -24,6 +24,10 @@ The goal of the EOEPCA+ “Common Architecture” is therefore to define and agr
 
 ## EOEPCA+ Building Blocks
 
+> **Bugs and Feature Requests**<br>
+> Please report any [bugs](https://github.com/EOEPCA/eoepca-plus/issues/new?template=eoepca-bug.yaml) encountered, and we welcome [feature requests](https://github.com/EOEPCA/eoepca-plus/issues/new?template=eoepca-feature.yaml).<br>
+> These are triaged via our [`eoepca-plus`](https://github.com/EOEPCA/eoepca-plus) umbrella repository.
+
 **User-defined Processing...**
 
 | Building Block | Description |   |   |   |   |   |
@@ -64,11 +68,6 @@ The goal of the EOEPCA+ “Common Architecture” is therefore to define and agr
 | **IAM** | Identity & Access Management | [Docs](https://eoepca.readthedocs.io/projects/iam) | [Deploy](https://eoepca.readthedocs.io/projects/deploy/en/latest/building-blocks/iam/main-iam/) | [Repo](https://github.com/EOEPCA/iam) | [Bug<br>Report](https://github.com/EOEPCA/eoepca-plus/issues/new?template=eoepca-bug.yaml) | [Feature<br>Request](https://github.com/EOEPCA/eoepca-plus/issues/new?template=eoepca-feature.yaml) |
 | **Federated Orchestrator** | Federation of workflow execution across multiple platforms | [Docs](https://eoepca.readthedocs.io/technical/federated-orchestrator-bb/) | _Coming<br>soon_ | [Repo](https://github.com/EOEPCA/document-federated-orchestrator) | [Bug<br>Report](https://github.com/EOEPCA/eoepca-plus/issues/new?template=eoepca-bug.yaml) | [Feature<br>Request](https://github.com/EOEPCA/eoepca-plus/issues/new?template=eoepca-feature.yaml) |
 | **Data Gateway** | _Coming soon_<br>Consolidated discovery/access to the data offering of an extensible set of data providers | [Docs](https://eoepca.readthedocs.io/projects/architecture/en/latest/reference-architecture/data-gateway-BB/) | _Coming<br>soon_ | _Coming<br>soon_ | [Bug<br>Report](https://github.com/EOEPCA/eoepca-plus/issues/new?template=eoepca-bug.yaml) | [Feature<br>Request](https://github.com/EOEPCA/eoepca-plus/issues/new?template=eoepca-feature.yaml) |
-
-### Bugs and Feature Requests
-
-Please report any [bugs](https://github.com/EOEPCA/eoepca-plus/issues/new?template=eoepca-bug.yaml) encountered, and we welcome [feature requests](https://github.com/EOEPCA/eoepca-plus/issues/new?template=eoepca-feature.yaml).<br>
-These are triaged via our [`eoepca-plus`](https://github.com/EOEPCA/eoepca-plus) umbrella repository.
 
 ---
 
