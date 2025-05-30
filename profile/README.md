@@ -86,6 +86,8 @@ The goal of the EOEPCA+ “Common Architecture” is therefore to define and agr
 
 A collection of tools and utilities provided by EOEPCA and its partners that support use of STAC - in particular helpers for passing data in/out of processing workflows.
 
+For more details see the [STAC Tools and Utilities](https://eoepca.readthedocs.io/technical/stac-tools-and-utilities/) page in the [EOEPCA+ Documentation](https://eoepca.readthedocs.io/).
+
 | Tool | Description | |
 |------|-------------|-|
 | **STAC Catalogue Utilities** | Python library that helps to generate a STAC catalog from the files output as results of processing tasks. Motivated to support applications development in accordance with the OGC Best Practice for Application Packages | [Repo](https://github.com/EOEPCA/stac-cat-utils) |
