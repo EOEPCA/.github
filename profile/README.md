@@ -5,7 +5,7 @@ Architecture and software building-blocks for data exploitation and platform int
 
 * **EOEPCA+ (Phase 2)**<br>
   EOEPCA+ represents Phase 2 of the project which takes a fresh appraisal of the architecture, the building-blocks, their capabilities, and their implementation approach. Thus, EOEPCA+ represents a major refactor of the Reference Implementation.<br>
-  The latest (and first) public release of EOEPCA+ is [**Release 2.0-beta2**](https://github.com/EOEPCA/eoepca-plus/releases/tag/2.0-beta2) - see associated [Deployment Guide](https://eoepca.readthedocs.io/projects/deploy/en/2.0-beta/).
+  The latest public release of EOEPCA+ is [**Release 2.0-rc1**](https://github.com/EOEPCA/eoepca-plus/releases/tag/2.0-rc1) - see associated [Deployment Guide](https://eoepca.readthedocs.io/projects/deploy/en/2.0-rc1/).
 
 * **EOEPCA (Phase 1)**<br>
   The original EOEPCA project concluded with [**Release 1.4**](https://github.com/EOEPCA/eoepca/releases/tag/v1.4), ([Deployment Guide](https://eoepca.readthedocs.io/projects/deploy/en/v1.4-stable/)).
