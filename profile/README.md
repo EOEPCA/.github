@@ -81,3 +81,16 @@ The goal of the EOEPCA+ “Common Architecture” is therefore to define and agr
 | **Remote Desktop with QGIS** | [Repo](https://github.com/EOEPCA/iga-remote-desktop-qgis) |
 | **Remote Desktop with SNAP** | [Repo](https://github.com/EOEPCA/iga-remote-desktop-snap) |
 | **Dashboard with Streamlit** | [Repo](https://github.com/EOEPCA/iga-streamlit-demo) |
+
+## STAC Tools and Utilities
+
+A collection of tools and utilities provided by EOEPCA and its partners that support use of STAC - in particular helpers for passing data in/out of processing workflows.
+
+| Tool | Description | |
+|------|-------------|-|
+| **STAC Catalogue Utilities** | Python library that helps to generate a STAC catalog from the files output as results of processing tasks. Motivated to support applications development in accordance with the OGC Best Practice for Application Packages | [Repo](https://github.com/EOEPCA/stac-cat-utils) |
+| **MLOps STAC Abstractions** | Provides pre/post containers that are designed to be introduced into ML inference workflows to abstract the use of STAC in accordance with the OGC Best Practice for Application Packages | Repo<br>soon... |
+| **STAC Catalogue Builder** | Tool that generates a STAC collection from a set of GeoTiff images - mainly intended to create STAC collections and catalogs for use in openEO, with the `load_stac` process | [Repo](https://github.com/VitoTAP/stac-catalog-builder) |
+| **rio-stac** | Simple rasterio plugin (built on `pystac`) for creating valid STAC items from a raster dataset | [Repo](https://developmentseed.org/rio-stac/) |
+
+See also [`stac-utils`](https://github.com/stac-utils).
