@@ -80,6 +80,7 @@ The goal of the EOEPCA+ “Common Architecture” is therefore to define and agr
 | **Remote Desktop** | [Repo](https://github.com/EOEPCA/iga-remote-desktop) |
 | **Remote Desktop with QGIS** | [Repo](https://github.com/EOEPCA/iga-remote-desktop-qgis) |
 | **Remote Desktop with SNAP** | [Repo](https://github.com/EOEPCA/iga-remote-desktop-snap) |
+| **Remote Desktop with Panoply** | [Repo](https://github.com/EOEPCA/iga-remote-desktop-panoply) |
 | **Dashboard with Streamlit** | [Repo](https://github.com/EOEPCA/iga-streamlit-demo) |
 
 ## STAC Tools and Utilities
@@ -96,3 +97,4 @@ For more details see the [STAC Tools and Utilities](https://eoepca.readthedocs.i
 | **rio-stac** | Simple rasterio plugin (built on `pystac`) for creating valid STAC items from a raster dataset | [Repo](https://developmentseed.org/rio-stac/) |
 
 See also [`stac-utils`](https://github.com/stac-utils).
+
