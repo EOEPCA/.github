@@ -4,9 +4,9 @@
 Architecture and software building-blocks for data exploitation and platform interoperability.
 
 **EOEPCA+ Stable 2.0** is the current baseline release. 
-See the [Release Notes](https://github.com/EOEPCA/deployment-guide/releases/tag/eoepca-2.0) and [Deployment Guide](https://eoepca.readthedocs.io/projects/deploy/en/latest/).
+See the [Release Notes](https://github.com/EOEPCA/deployment-guide/releases/tag/eoepca-2.0) and [2.0 Deployment Guide](https://eoepca.readthedocs.io/projects/deploy/en/latest/).
 
-The previous EOEPCA release (v1.4) is still available via its [Deployment Guide](https://eoepca.readthedocs.io/projects/deploy/en/v1.4-stable/).
+The previous EOEPCA release (v1.4) is still available via its [1.4 Deployment Guide](https://eoepca.readthedocs.io/projects/deploy/en/v1.4-stable/).
 
 ---
 
