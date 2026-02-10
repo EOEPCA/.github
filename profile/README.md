@@ -8,6 +8,8 @@ See the [Release Notes](https://github.com/EOEPCA/deployment-guide/releases/tag/
 
 The previous EOEPCA release (v1.4) is still available via its [1.4 Deployment Guide](https://eoepca.readthedocs.io/projects/deploy/en/v1.4-stable/).
 
+Migrating from an earlier version? See the [CHANGELOG](https://eoepca.readthedocs.io/projects/deploy/en/eoepca-2.0/changelog/) for more details.
+
 ---
 
 ## Overview
@@ -101,4 +103,5 @@ For more details see the [STAC Tools and Utilities](https://eoepca.readthedocs.i
 | **rio-stac** | Simple rasterio plugin (built on `pystac`) for creating valid STAC items from a raster dataset | [Repo](https://developmentseed.org/rio-stac/) |
 
 See also [`stac-utils`](https://github.com/stac-utils).
+
 
