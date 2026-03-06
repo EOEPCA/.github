@@ -102,5 +102,16 @@ For more details see the [STAC Tools and Utilities](https://eoepca.readthedocs.i
 
 See also [`stac-utils`](https://github.com/stac-utils).
 
+## Release Versioning
 
+EOEPCA+ is formally released via the [Deployment Guide](https://eoepca.readthedocs.io/projects/deploy/en/latest/), which baselines a set of Building Blocks versions that are validated as a coherent integration.
 
+Releases follow Semantic Versioning with repository tags in the form `eoepca-MAJOR.MINOR` (optionally `eoepca-MAJOR.MINOR.PATCH`).
+
+For example, `Release 2.0` is tagged as `eoepca-2.0`.
+
+- `MAJOR`: reserved for governance-level exceptional EOEPCA+ release boundaries (for example major architecture transitions or contractual/programmatic phase changes).
+- `MINOR`: new features/use-cases/components that do not meet `MAJOR` criteria.
+- `PATCH`: backward-compatible corrections without capability expansion, including backward-compatible security vulnerability fixes.
+
+The full policy is documented in [Release Versioning Strategy](https://eoepca.readthedocs.io/projects/deploy/en/latest/release-versioning/).
