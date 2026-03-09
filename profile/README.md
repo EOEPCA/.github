@@ -10,6 +10,8 @@ The previous EOEPCA release (v1.4) is still available via its [1.4 Deployment Gu
 
 Migrating from an earlier version? See the [CHANGELOG](https://eoepca.readthedocs.io/projects/deploy/en/eoepca-2.0/changelog/) for more details.
 
+See the [EOEPCA+ Release Strategy](#release-strategy) section below for details on versioning and release cycles.
+
 ---
 
 ## Overview
