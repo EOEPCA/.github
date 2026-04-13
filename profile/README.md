@@ -12,7 +12,7 @@ Migrating from an earlier version? See the [CHANGELOG](https://eoepca.readthedoc
 
 See [EOEPCA+ Release Strategy](RELEASE-STRATEGY.md) for details on versioning and release cycles.
 
-See [EOEPCA+ Building-Block Security Best Practice](SECURITY-BEST-PRACTICE.md) for details on recommended security practices.
+See [EOEPCA+ Building-Block Security Best Practice](BB-SECURITY-BEST-PRACTICE.md) for details on recommended security practices.
 
 ---
 
