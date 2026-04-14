@@ -1,4 +1,4 @@
-# EOEPCA+ Building-Block Security Best Practice
+# EOEPCA+ Building-Block Vulnerability Management and Secure Configuration Baseline Practices
 
 These practices are aimed at:
 * enabling baseline vulnerability management practices within operators' clusters,
