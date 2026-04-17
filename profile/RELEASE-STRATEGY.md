@@ -3,6 +3,12 @@
 
 EOEPCA+ is formally released via the [Deployment Guide](https://eoepca.readthedocs.io/projects/deploy/en/latest/), which baselines a set of Building Blocks versions that are validated as a coherent integration.
 
+### Well Supported and Actively Maintained
+
+EOEPCA+ releases are well supported and actively maintained by the development teams.
+
+The development teams curate, validate, and sustain each repository release baseline over time.
+
 Thus, an EOEPCA+ release represents a coherent validated set that comprises the following artifacts:
 
 - Deployment Guide:
@@ -58,11 +64,11 @@ Pre-releases should use standard SemVer pre-release suffixes in the same namespa
 
 ### Release Cycle
 
-EOEPCA+ releases are typicallyrun as a calendar-aligned rollup, with releases targeted approximately quarterly.
+EOEPCA+ release operations are maintained by the development teams to provide a well supported and actively maintained release line.
 
-Quarterly rollups are typically expected to result in a `MINOR` release, reflecting the addition of new features, new use cases, and potentially new components.
+`PATCH` releases are produced at least quarterly as fix rollups for backward-compatible corrections and hardening updates.
 
-The right is reserved to issue `PATCH` releases between quarterly rollups when backward-compatible fixes are needed.
+`MINOR` releases do not follow a fixed timeline; they are issued when a stable set of updates is ready to be consolidated into a coherent release.
 
 Each release is prepared by establishing a baseline for the composing Building Blocks (BBs), similar to a feature-freeze point.
 

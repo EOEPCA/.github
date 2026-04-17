@@ -108,12 +108,14 @@ See also [`stac-utils`](https://github.com/stac-utils).
 
 ## Release Strategy
 
+EOEPCA+ releases are well supported and actively maintained by the development teams.
+
 Releases follow Semantic Versioning with repository tags in the form `eoepca-MAJOR.MINOR` (optionally `eoepca-MAJOR.MINOR.PATCH`).
 
 For example, `Release 2.0` is tagged as `eoepca-2.0`.
 
 - `MAJOR`: reserved for governance-level exceptional EOEPCA+ release boundaries (for example major architecture transitions or contractual/programmatic phase changes).
-- `MINOR`: new features/use-cases/components that do not meet `MAJOR` criteria.
-- `PATCH`: backward-compatible corrections without capability expansion, including backward-compatible security vulnerability fixes.
+- `MINOR`: new features/use-cases/components that do not meet `MAJOR` criteria; no fixed timeline, released when stable updates are ready to consolidate.
+- `PATCH`: backward-compatible corrections without capability expansion, including backward-compatible security vulnerability fixes; produced at least quarterly as fix rollups.
 
 The full policy is documented in [RELEASE-STRATEGY.md](RELEASE-STRATEGY.md).
