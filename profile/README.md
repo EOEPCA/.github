@@ -16,6 +16,12 @@ See [EOEPCA+ Building-Block Security Best Practice](BB-SECURITY-BEST-PRACTICE.md
 
 ---
 
+## Enquiries and Support Requests
+
+If you have a question or require some technical support, then please raise a [**Support Request**](https://github.com/EOEPCA/community-support/issues/new?template=eoepca-support-request.yaml) via [this form](https://github.com/EOEPCA/community-support/issues/new?template=eoepca-support-request.yaml).
+
+---
+
 ## Overview
 
 Earth Observation (EO) data has quickly evolved into an indispensable resource, directly facilitating solutions for society's most pressing challenges. This intensifying influx of data, oftentimes distributed across multiple independent platforms, presents a significant challenge for end-users in efficiently accessing and collaborating on critical geospatial tasks. Nevertheless, these platforms are more commonly collocated with cloud computing resources and applications such that users are now able to perform geospatial analysis tasks remotely. Working in the cloud bypasses traditional download, storage and performance limitations, however the distributed nature of these platform networks introduces complexities in the free and collective access to this remote geospatial data.
